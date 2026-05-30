@@ -16,7 +16,7 @@
 
 💬 Ask me about **Python, ML... or anything [here](https://github.com/Vierzhaa/Vierzhaa/issues)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **i like cat**
 
  </div>
  
@@ -37,7 +37,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,vscode,github,opencv,tensorflow,javascript,git" />
+    <img src="https://skillicons.dev/icons?i=python,vscode,github,opencv,tensorflow,javascript,git" /><br/>
     <img src="https://skillicons.dev/icons?i=nodejs,cpp,flask,mysql,figma,bootstrap,html,css" /><br>
 </div>
 
@@ -56,9 +56,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Vierzhaa&locale=en&mode=daily&theme=midnight-purple&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/Vierzhaa/Vierzhaa/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/Vierzhaa/Vierzhaa/languages-output/languages.svg" height="105" alt="languages graph"  />
+  <img align="center" src="https://streak-stats.demolab.com?user=Vierzhaa&locale=en&mode=daily&theme=midnight-purple&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <br>
+  <img align="center"src="https://raw.githubusercontent.com/Vierzhaa/Vierzhaa/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img align="center"src="https://raw.githubusercontent.com/Vierzhaa/Vierzhaa/languages-output/languages.svg" height="105" alt="languages graph"  />
   <img src="https://raw.githubusercontent.com/Vierzhaa/Vierzhaa/activity-graph-output/activity-graph.svg" height="300" alt="activity-graph graph"  />
 </div>
 
@@ -66,12 +67,4 @@
 
 <br/><br/>
 
-<hr/>
-
-<br/>
-
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
-
-<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
