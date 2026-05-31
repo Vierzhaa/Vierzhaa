@@ -1,6 +1,3 @@
-
-
-
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Vierzhaa.Vierzhaa" />
 
 <h1 align="center">
@@ -12,7 +9,7 @@
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="left">
- <img align="right" src="img/Shin.jpg">
+ <img align= "right" src="https://spotify-recently-played-readme.vercel.app/api?user=316rr5k4i6kcovvdhde7zjtuotqi&count=3">
  <br/>
 
  
