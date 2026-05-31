@@ -1,3 +1,6 @@
+
+
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Vierzhaa.Vierzhaa" />
 
 <h1 align="center">
@@ -8,19 +11,21 @@
 
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<div align="center">
- 
+<div align="left">
+ <img align="right" src="img/Shin.jpg">
  <br/>
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
 
-💬 Ask me about **Python, ML... or anything [here](https://github.com/Vierzhaa/Vierzhaa/issues)**
+ 
+ 
+ 🌱 I’m currently learning **Docker**
+
+💬 Ask me about **Python,.. or anything [here](https://github.com/Vierzhaa/Vierzhaa/issues)**
 
 ⚡ Fun fact **i like cat**
 
  </div>
  
-<div align="center"> 
+<div align="left"> 
   <a href="mailto:mohammadazizrahmatullaharmazil@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -48,7 +53,9 @@
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Vierzhaa/Vierzhaa/snake-output/snake.svg" alt="Snake animation" />
-  <br/><br/><br/>
+  <br/>
+  <img align="center" src="https://raw.githubusercontent.com/Vierzhaa/Vierzhaa/activity-graph-output/activity-graph.svg" height="300" alt="activity-graph graph"  />
+  <br/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -60,11 +67,11 @@
   <br>
   <img align="center"src="https://raw.githubusercontent.com/Vierzhaa/Vierzhaa/stats-output/stats.svg" height="150" alt="stats graph"  />
   <img align="center"src="https://raw.githubusercontent.com/Vierzhaa/Vierzhaa/languages-output/languages.svg" height="105" alt="languages graph"  />
-  <img src="https://raw.githubusercontent.com/Vierzhaa/Vierzhaa/activity-graph-output/activity-graph.svg" height="300" alt="activity-graph graph"  />
+  <br>
+  
 </div>
 
 ###
 
-<br/><br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
