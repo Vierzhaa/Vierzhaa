@@ -1,7 +1,7 @@
 <img align= "right" src="https://visitor-badge.laobi.icu/badge?page_id=Vierzhaa.Vierzhaa&left_color=blueviolet&right_color=darkviolet"  />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vierzha+(Aziz)!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Playwrite+GB+J&size=39&color=AD56E3&background=8944B300&center=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vierzha+(Aziz)+!;" />
 </h1>
 
 <h3 align="center"></h3>
