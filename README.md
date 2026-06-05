@@ -12,7 +12,7 @@
  <img align= "right" src="https://spotify-recently-played-readme.vercel.app/api?user=316rr5k4i6kcovvdhde7zjtuotqi&count=3">
  
 
- <div align="left">
+ <div align="left" >
   <a href="https://api.whatsapp.com/send/?phone=6282234118961&text&type=phone_number&app_absent=0" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
@@ -22,7 +22,7 @@
   
 </div>
  
- 🌱 I’m currently learning **Docker**
+🌱 I’m currently learning **Docker**
 
 💬 Ask me about **Python,.. or anything [here](https://github.com/Vierzhaa/Vierzhaa/issues)**
 
@@ -30,15 +30,15 @@
 
  </div>
  
-<div align="left"> 
-  <a href="mailto:mohammadazizrahmatullaharmazil@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+<div align="left" > 
+  <a href="https://instagram.com/vierzha_3.7">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.tiktok.com/@freaks707" target="_blank">
-    <img src="https://img.shields.io/badge/Tiktok-000000?style=for-the-badge&logo=Tiktok&logoColor=white" target="_blank" />
+  <a href="mailto:mohammadazizrahmatullaharmazil@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/gmail-000000?style=for-the-badge&logo=Gmail&logoColor=red" target="_blank" />
   </a>
   <a href="https://github.com/Vierzhaa" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-9934fa?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-9934fa?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- next change this to github pages -->
   </a>
 </div>
 
