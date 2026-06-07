@@ -37,8 +37,8 @@
   <a href="mailto:mohammadazizrahmatullaharmazil@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/gmail-000000?style=for-the-badge&logo=Gmail&logoColor=red" target="_blank" />
   </a>
-  <a href="https://github.com/Vierzhaa" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-9934fa?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- next change this to github pages -->
+  <a href="https://vierzhaa.github.io/" target="_blank">
+     <img src="https://img.shields.io/badge/My web-9934fa?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- next change this to github pages -->
   </a>
 </div>
 
