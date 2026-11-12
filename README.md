@@ -11,16 +11,6 @@
 <div align="left">
  <img align= "right" src="https://spotify-recently-played-readme.vercel.app/api?user=316rr5k4i6kcovvdhde7zjtuotqi&count=3">
  
-
- <div align="left" >
-  <a href="https://api.whatsapp.com/send/?phone=6282234118961&text&type=phone_number&app_absent=0" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  </a>
-  <a href="https://open.spotify.com/user/316rr5k4i6kcovvdhde7zjtuotqi?si=c078f27efa5c4c97" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/spotify/default.svg" width="52" height="40" alt="spotify logo"  />
-  </a>
-  
-</div>
  
 🌱 I’m currently learning **Docker**
 
@@ -77,6 +67,5 @@
 </div>
 
 ###
-
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
